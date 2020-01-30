@@ -1,0 +1,8 @@
+
+
+user input: keyboard
+ask for radius of  circle
+setup algorithm
+ user input = X
+ X/2 *3.14
+ display result
